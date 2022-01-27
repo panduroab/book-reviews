@@ -17,4 +17,4 @@ Your job as a manager is to growth your team. Performance tracking, delegation a
 ### 4. Biggest surprise
 Lots of great lessons in this book. The author have a lot of knowledge and experience in the tech management world. 
 
-However, some chapters are hard to read. It seems to me that those chapters were writed for the pure joyment of the author. Great management book, but I'm not a fan of the author's style.
+However, some chapters are hard to read. It seems to me that those chapters were write for the pure enjoyment of the author. Great management book, but I'm not a fan of the author's style.
